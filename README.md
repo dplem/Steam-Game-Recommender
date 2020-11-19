@@ -9,7 +9,7 @@ The datasets used for this recommender system were taken from kaggle.
 
 1. Steam games user interactions: https://www.kaggle.com/tamber/steam-video-games
 
-2. Steam store games dataset: https://www.kaggle.com/nikdavis/steam-store-games
+2. Steam store games dataset: https://www.kaggle.com/trolukovich/steam-games-complete-dataset
 
 3. Steam Review: https://www.kaggle.com/luthfim/steam-reviews-dataset
 
