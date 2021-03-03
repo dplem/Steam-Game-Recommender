@@ -5,13 +5,16 @@ Steam Game Recommender is a ML system that recommends games on the Steam platfor
 ## Datasets
 
 
-The datasets used for this recommender system were taken from kaggle. 
+The datasets used for this recommender system were taken from kaggle:
+
+1. Steam store games: https://www.kaggle.com/trolukovich/steam-games-complete-dataset
+
+
+Other possible datasets to include:
 
 1. Steam games user interactions: https://www.kaggle.com/tamber/steam-video-games
 
-2. Steam store games dataset: https://www.kaggle.com/trolukovich/steam-games-complete-dataset
-
-3. Steam Review: https://www.kaggle.com/luthfim/steam-reviews-dataset
+2. Steam Reviews: https://www.kaggle.com/luthfim/steam-reviews-dataset
 
 ## Usage
 
